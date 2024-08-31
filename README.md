@@ -48,7 +48,7 @@ Here are some of the technologies and tools I'm learning and working with:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdulwajeedDev)
+- [LinkedIn](https://www.linkedin.com/in/abdulwajeedDev/)
 - [Twitter](https://twitter.com/abdulwajeed_ai)
  
 
